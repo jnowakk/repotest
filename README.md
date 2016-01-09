@@ -1,3 +1,5 @@
+Test na potrzeby przedmiotu Sieci spoecznociowe w gospodarce elektronicznej
+
 # repotest
 
 ### W katalogu Wykresy znajduje się wykres sprzedaży
